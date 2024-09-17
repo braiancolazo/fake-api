@@ -1,14 +1,5 @@
-[
-  {
-    "nombre": "Jorge",
-    "apellido": "Sanchez"
-  },
-  {
-    "nombre": "Martin",
-    "apellido": "Rodriguez"
-  },
-  {
-    "nombre": "Lucas",
-    "apellido": "Garcia"
-  }
-]
+{
+  "nombre": "Jorge",
+  "apellido": "Sanchez"
+}
+
