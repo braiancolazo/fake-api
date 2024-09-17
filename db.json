@@ -1,5 +1,19 @@
 {
-  "nombre": "Jorge",
-  "apellido": "Sanchez"
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Jorge",
+      "apellido": "Sanchez"
+    },
+    {
+      "id": 2,
+      "nombre": "Martin",
+      "apellido": "Rodriguez"
+    },
+    {
+      "id": 3,
+      "nombre": "Lucas",
+      "apellido": "Garcia"
+    }
+  ]
 }
-
