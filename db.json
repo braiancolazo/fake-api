@@ -1,19 +1,14 @@
 {
-  "users": [
+  "cursos": [
     {
-      "id": 1,
-      "nombre": "Jorge",
-      "apellido": "Sanchez"
+      "id": "2W1",
+      "title": "Curso Tarde",
+      "q_alumnos": 50
     },
     {
-      "id": 2,
-      "nombre": "Martin",
-      "apellido": "Rodriguez"
+      "id": "2W2",
+      "nombre": "Curso Noche",
+      "q_alumnos": 46
     },
-    {
-      "id": 3,
-      "nombre": "Lucas",
-      "apellido": "Garcia"
-    }
   ]
 }
